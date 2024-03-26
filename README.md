@@ -13,5 +13,5 @@ conda env create -n cellShapeAnalysis_env --file cellShapeAnalysis_env.yml
 ## Run Analysis
 Run the analysis notebook from JupyterNotebook or JupyterLab. Make sure that you have selected the just created env as kernel.
 
-For analysing your data, just copy your image data (.tif-files) and your cellpose shape data (.npy-files) to the "Data" folder, update the filepaths in the notebook and run the analysis.
+For analysing your data, just copy your image data (.tif-files) and your cellpose shape data (.npy-files) to the folder, update the filepaths in the notebook and run the analysis.
 
